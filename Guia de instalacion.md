@@ -110,4 +110,4 @@ Todas estas etiquetas pueden ser encontradas en la esquina superior izquierda, c
 
 En cuanto a valores de los pines digitales, 40, 41 y 42 corresponden al LED1, 2 y 3, mientras que 36, 37 y 38 a las TEC1, 2 y 3, respectivamente, de la placa. Esta información puede ser obtenida del mapeo de pines.
 
-Es __importante__ tener un pequeño retardo en los programas hechos en Snap, ya que de no utilizar uno el programa posiblemente se tilde.
+Es __importante__ tener un pequeño retardo en los programas hechos en Snap, ya que de no utilizar uno es muy proable que la aplicación se tilde y deba ser cerrada.
