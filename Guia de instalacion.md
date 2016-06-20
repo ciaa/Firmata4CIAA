@@ -109,3 +109,5 @@ Todas estas etiquetas pueden ser encontradas en la esquina superior izquierda, c
 ![Etiquetas](\Resources\1-Guia_de_instalacion\1-6-Snap_Labels.png)
 
 En cuanto a valores de los pines digitales, 40, 41 y 42 corresponden al LED1, 2 y 3, mientras que 36, 37 y 38 a las TEC1, 2 y 3, respectivamente, de la placa. Esta información puede ser obtenida del mapeo de pines.
+
+Es importante tener un pequeño retardo en los programas hechos en Snap, ya que de no utilizar uno el programa posiblemente se tilde.
