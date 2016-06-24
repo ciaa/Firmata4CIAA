@@ -36,7 +36,7 @@
 #include "stdint.h"
 
 #include "Isr.h"
-#include "sch.h"
+#include "Sch.h"
 #include "Firmata.h"
 #include "HAL.h"
 
