@@ -2,7 +2,7 @@
 
 A firmata protocol implementation for CIAA Project boards.
 
-This program allows the user to work with applications, like snap (http://s4a.cat/snap/), that use the firmata protocol (http://firmata.org/wiki/Main_Page) to communicate with the board.
+This program allows the user to work with applications, like snap (http://s4a.cat/snap/), that use the firmata protocol (http://firmata.org/wiki/Main_Page) to control the board.
 
 Other applications that use Firmata: 
 
