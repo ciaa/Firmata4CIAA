@@ -11,9 +11,10 @@ Other applications that use Firmata:
 
 ## Versions
 
-- [Firmata4CIAA](https://github.com/OlivieriIan/Firmata4CIAA) 2.0
-- [sAPI](https://github.com/epernia/sapi) 0.1
-- [Firmata](https://github.com/firmata/protocol) 2.3
+- [Firmata4CIAA](https://github.com/OlivieriIan/Firmata4CIAA) 2.0.
+- [Firmata](https://github.com/firmata/protocol) 2.3.
+- [CIAA Firmware](https://github.com/ciaa/Firmware/releases) Upa 1.0.0 LTS.
+- [sAPI](https://github.com/epernia/sapi) 0.1.
 
 ## Supported boards: 
 
