@@ -1,21 +1,28 @@
 # Firmata4CIAA
-Este firmware permite controlar la EDU-CIAA-NXP mediante el software de programación gráfica Snap o cualquiera que utilice el protocolo Firmata.
 
-## Uso ##
+A firmata protocol implementation for CIAA boards.
 
-Las guias de uso y mapeo de pines se encuentra en la carpeta docs. Se recomienda:
+This program allows the user to work with applications, like snap (http://s4a.cat/snap/), that use the firmata protocol (http://firmata.org/wiki/Main_Page) to communicate with the board.
 
-1 - Bajar el firmware a la placa (vease "Guia de instalacion de Firmata4CIAA.pdf")  
-2 - Verificar que el primer paso fue realizado correctamente con la aplicación "Firmata Test" (vease "Guia de instalacion de Firmata4CIAA.pdf", paso 5, página 8)  
-3 - Instalar Snap (vease "Guia de instalacion de Snap.pdf")  
+Other applications that use Firmata: 
 
+* cylonjs: http://cylonjs.com/
+* Johnny five: http://johnny-five.io/
 
+## Versions
 
-## Versiones de los proyectos involucrados ##
+[Firmata4CIAA](https://github.com/OlivieriIan/Firmata4CIAA) 2.0
+[sAPI](https://github.com/epernia/sapi) 0.1
+[Firmata](https://github.com/firmata/protocol) 2.3
 
-Versión de [Firmata4CIAA](https://github.com/OlivieriIan/Firmata4CIAA): 2.0
+## Supported boards: 
 
-Versión de [sAPI](https://github.com/epernia/sapi) utilizada: 0.1
+* EDU-CIAA-NXP.
 
-Versión de [Firmata](https://github.com/firmata/protocol) utilizada: 2.3
+## Use
 
+See docs folder for user guides and pin mapping. It is recommended:
+
+1 - Download Firmata4CIAA firmware to EDU-CIAA-NXP board (see "Guia de instalacion de Firmata4CIAA.pdf"). This firmware is also included as an Embedded IDE tempalte (download latest release of Embedded IDE at https://github.com/martinribelotta/embedded-ide-builder/releases).
+2 - Use "Firmata Test" program to test that firmata protocol works (see "Guia de instalacion de Firmata4CIAA.pdf", step 5, page 8).  
+3 - Install Snap (see "Guia de instalacion de Snap.pdf") or other firmata-compatible software.  
