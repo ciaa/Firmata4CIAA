@@ -24,6 +24,6 @@ Other applications that use Firmata:
 
 See "docs" folder for user guides and pin mapping. It is recommended:
 
-1 - Download Firmata4CIAA firmware to EDU-CIAA-NXP board (see "Guia de instalacion de Firmata4CIAA.pdf"). This firmware is also included as an Embedded IDE tempalte (download latest release of Embedded IDE at https://github.com/martinribelotta/embedded-ide-builder/releases).
-2 - Use "Firmata Test" program to test that firmata protocol works (see "Guia de instalacion de Firmata4CIAA.pdf", step 5, page 8).  
-3 - Install Snap (see "Guia de instalacion de Snap.pdf") or other firmata-compatible software.  
+1. Download Firmata4CIAA firmware to EDU-CIAA-NXP board (see "Guia de instalacion de Firmata4CIAA.pdf"). This firmware is also included as an Embedded IDE tempalte (download latest release of Embedded IDE at https://github.com/martinribelotta/embedded-ide-builder/releases).
+2. Use "Firmata Test" program to test that firmata protocol works (see "Guia de instalacion de Firmata4CIAA.pdf", step 5, page 8).  
+3. Install Snap (see "Guia de instalacion de Snap.pdf") or other firmata-compatible software.  
